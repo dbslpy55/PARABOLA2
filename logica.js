@@ -5,4 +5,5 @@ function calcularDistancia(angulo, vel-ini){
 
 function gradosAaradianes(grados){
   let radianes = grados * Math.PI / 180;
+  return radianes;
 }
